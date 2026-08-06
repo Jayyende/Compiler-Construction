@@ -1,0 +1,12 @@
+int main()
+{
+    // This is a comment
+    int a = 10;
+    float b = 20.5;
+    char ch = 'A';
+
+    if(a < b)
+    {
+        return 0;
+    }
+}
